@@ -5,5 +5,7 @@ body {
 }
 h1{
     text-align: center;
-    align-items: 18px;
+}
+mark{
+    background-color: rgb(247, 82, 172);
 }
